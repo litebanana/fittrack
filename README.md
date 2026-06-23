@@ -1,4 +1,4 @@
-# FitTrack 💪
+# FitTrack 
 
 A full-stack personal fitness tracking app built with **Flutter** and **Firebase**.
 
@@ -6,15 +6,15 @@ A full-stack personal fitness tracking app built with **Flutter** and **Firebase
 
 ## Features
 
-- 🔐 **Authentication** — Register, login, forgot password, profile management
-- 🏠 **Dashboard** — Weight, workouts completed, latest PR, daily nutrition ring
-- 🏋️ **Workout Tracking** — Log workouts, add exercises by muscle group, track sets/reps/weight
-- 📈 **Progressive Overload** — Auto-detects personal records and shows improvements
-- 📊 **Progress Charts** — Weight history line chart (fl_chart)
-- 📏 **Body Measurements** — Weight, body fat %, chest, waist, arms, legs
-- 📸 **Progress Photos** — Front, side, back photos stored in Firebase Storage
-- 🥗 **Nutrition Tracker** — Log meals with calories, protein, carbs, fats
-- 👤 **Profile** — BMI calculator, edit personal info, daily nutrition goals
+-  **Authentication** — Register, login, forgot password, profile management
+- **Dashboard** — Weight, workouts completed, latest PR, daily nutrition ring
+-  **Workout Tracking** — Log workouts, add exercises by muscle group, track sets/reps/weight
+-  **Progressive Overload** — Auto-detects personal records and shows improvements
+- **Progress Charts** — Weight history line chart (fl_chart)
+-  **Body Measurements** — Weight, body fat %, chest, waist, arms, legs
+-  **Progress Photos** — Front, side, back photos stored in Firebase Storage
+-  **Nutrition Tracker** — Log meals with calories, protein, carbs, fats
+-  **Profile** — BMI calculator, edit personal info, daily nutrition goals
 
 ---
 
